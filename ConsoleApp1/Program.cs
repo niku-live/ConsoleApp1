@@ -7,6 +7,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             int b = TestCalculationMethod(1, 3);
+            int n = 1;
+            int m = 2;
+            int j = 1; 
             Console.WriteLine(b);
             Console.WriteLine("test");
             Console.WriteLine("Hello World!");
